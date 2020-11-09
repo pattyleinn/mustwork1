@@ -1,0 +1,29 @@
+body{
+    color: aqua;
+    text-align: center;
+    background-color: brown;
+    padding: 10px 20px 10px 20px;
+    border-inline: 10px;
+    border-inline-color: #ffffff;
+    border: darkblue;
+    border-width: 10px 20px 10px 20px;
+    font-size: 100px;
+    padding: 10px 30px 20px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: darkorchid;
+    border-radius: 120px;
+    
+}
+div{
+    border: 10px;
+    border-style: solid;
+    border-width: 10px;
+    
+
+}
+#w{
+    font-size: 30px;
+    font-family: cursive;
+    border-block: 40px;
+    
+}
